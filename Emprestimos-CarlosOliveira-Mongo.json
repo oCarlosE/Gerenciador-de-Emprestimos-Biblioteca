@@ -1,0 +1,240 @@
+{
+  "_id": { "$oid": "646964d6b1c86da8e82c3a48" },
+  "Emprestimo": {
+    "pessoa": {
+      "cpf": "03460528079",
+      "nome": "Carlos Eduardo Santos Oliveira",
+      "tipo": "Aluno",
+      "email": "z4pduz@gmail.com",
+      "telefone": "51 98225-9281"
+    },
+    "Obra": {
+      "nome_da_obra": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K Rowling",
+      "nro_de_paginas": "320",
+      "codigo_da_obra": "00001",
+      "tipo_da_obra": "Livro"
+    },
+    "emprestimo": {
+      "codigo_do_emprestimo": "EM001",
+      "data_de_emprestimo": "2023-05-15",
+      "data_de_devolucao": "2023-05-23"
+    }
+  }
+}
+{
+  "_id": { "$oid": "6469650bb1c86da8e82c3a49" },
+  "Emprestimo": {
+    "pessoa": {
+      "cpf": "98765432109",
+      "nome": "Maria Souza",
+      "tipo": "Professor",
+      "email": "maria.souza@outlook.com",
+      "telefone": "22 95685-6789"
+    },
+    "Obra": {
+      "nome_da_obra": "Veja",
+      "autor": "Rafael Manganes",
+      "nro_de_paginas": "56",
+      "codigo_da_obra": "Revista",
+      "tipo_da_obra": "00002"
+    },
+    "emprestimo": {
+      "codigo_do_emprestimo": "EM002",
+      "data_de_emprestimo": "2023-06-22",
+      "data_de_devolucao": "2023-07-09"
+    }
+  }
+}
+{
+  "_id": { "$oid": "64696522b1c86da8e82c3a4a" },
+  "Emprestimo": {
+    "pessoa": {
+      "cpf": "45678901234",
+      "nome": "Ana Carolina Xavier",
+      "tipo": "Aluno",
+      "email": "ana.carolina@gmail.com",
+      "telefone": "51 98755-5555"
+    },
+    "Obra": {
+      "nome_da_obra": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K Rowling",
+      "nro_de_paginas": "320",
+      "codigo_da_obra": "00001",
+      "tipo_da_obra": "Livro"
+    },
+    "emprestimo": {
+      "codigo_do_emprestimo": "EM003",
+      "data_de_emprestimo": "2023-10-30",
+      "data_de_devolucao": "2023-11-10"
+    }
+  }
+}
+{
+  "_id": { "$oid": "64696536b1c86da8e82c3a4b" },
+  "Emprestimo": {
+    "pessoa": {
+      "cpf": "90123456789",
+      "nome": "Kauana Galan",
+      "tipo": "Aluno",
+      "email": "kauana.galan@gmail.com",
+      "telefone": "51 99951-9141"
+    },
+    "Obra": {
+      "nome_da_obra": "Homem Aranha VS Duende Verde",
+      "autor": "Stan Lee",
+      "nro_de_paginas": "99",
+      "codigo_da_obra": "00003",
+      "tipo_da_obra": "Outros"
+    },
+    "emprestimo": {
+      "codigo_do_emprestimo": "EM004",
+      "data_de_emprestimo": "2023-10-18",
+      "data_de_devolucao": "2023-11-11"
+    }
+  }
+}
+{
+  "_id": { "$oid": "64696547b1c86da8e82c3a4c" },
+  "Emprestimo": {
+    "pessoa": {
+      "cpf": "34567890123",
+      "nome": "Lucas Chaves",
+      "tipo": "Aluno",
+      "email": "lucas.chaves@gmail.com",
+      "telefone": "51 99655-1535"
+    },
+    "Obra": {
+      "nome_da_obra": "Veja",
+      "autor": "Rafael Manganes",
+      "nro_de_paginas": "56",
+      "codigo_da_obra": "00002",
+      "tipo_da_obra": "Revista"
+    },
+    "emprestimo": {
+      "codigo_do_emprestimo": "EM005",
+      "data_de_emprestimo": "2023-12-25",
+      "data_de_devolucao": "2024-01-12"
+    }
+  }
+}
+{
+  "_id": { "$oid": "64696553b1c86da8e82c3a4d" },
+  "Emprestimo": {
+    "pessoa": {
+      "cpf": "03460528079",
+      "nome": "Carlos Eduardo Santos Oliveira",
+      "tipo": "Aluno",
+      "email": "z4pduz@gmail.com",
+      "telefone": "51 98225-9281"
+    },
+    "Obra": {
+      "nome_da_obra": "Homem Aranha VS Duende Verde",
+      "autor": "Stan Lee",
+      "nro_de_paginas": "99",
+      "codigo_da_obra": "00003",
+      "tipo_da_obra": "Outros"
+    },
+    "emprestimo": {
+      "codigo_do_emprestimo": "EM006",
+      "data_de_emprestimo": "2023-11-06",
+      "data_de_devolucao": "2023-12-13"
+    }
+  }
+}
+{
+  "_id": { "$oid": "6469655eb1c86da8e82c3a4e" },
+  "Emprestimo": {
+    "pessoa": {
+      "cpf": "98765432109",
+      "nome": "Maria Souza",
+      "tipo": "Professora",
+      "email": "maria.souza@outlook.com",
+      "telefone": "22 95685-6789"
+    },
+    "Obra": {
+      "nome_da_obra": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K Rowling",
+      "nro_de_paginas": "320",
+      "codigo_da_obra": "00001",
+      "tipo_da_obra": "Livro"
+    },
+    "emprestimo": {
+      "codigo_do_emprestimo": "EM007",
+      "data_de_emprestimo": "2023-09-07",
+      "data_de_devolucao": "2023-10-14"
+    }
+  }
+}
+{
+  "_id": { "$oid": "6469656ab1c86da8e82c3a4f" },
+  "Emprestimo": {
+    "pessoa": {
+      "cpf": "45678901234",
+      "nome": "Ana Carolina Xavier",
+      "tipo": "Aluno",
+      "email": "ana.carolina@gmail.com",
+      "telefone": "51 98755-5555"
+    },
+    "Obra": {
+      "nome_da_obra": "Veja",
+      "autor": "Rafael Manganes",
+      "nro_de_paginas": "56",
+      "codigo_da_obra": "00002",
+      "tipo_da_obra": "Revista"
+    },
+    "emprestimo": {
+      "codigo_do_emprestimo": "EM008",
+      "data_de_emprestimo": "2023-09-13",
+      "data_de_devolucao": "2023-10-15"
+    }
+  }
+}
+{
+  "_id": { "$oid": "64696579b1c86da8e82c3a50" },
+  "Emprestimo": {
+    "pessoa": {
+      "cpf": "90123456789",
+      "nome": "Kauana Galan",
+      "tipo": "Aluno",
+      "email": "kauana.galan@gmail.com",
+      "telefone": "51 99951-9141"
+    },
+    "Obra": {
+      "nome_da_obra": "Homem Aranha VS Duende Verde",
+      "autor": "Stan Lee",
+      "nro_de_paginas": "99",
+      "codigo_da_obra": "00003",
+      "tipo_da_obra": "Outros"
+    },
+    "emprestimo": {
+      "codigo_do_emprestimo": "EM009",
+      "data_de_emprestimo": "2023-01-09",
+      "data_de_devolucao": "2023-02-16"
+    }
+  }
+}
+{
+  "_id": { "$oid": "64696582b1c86da8e82c3a51" },
+  "Emprestimo": {
+    "pessoa": {
+      "cpf": "34567890123",
+      "nome": "Lucas Chaves",
+      "tipo": "Aluno",
+      "email": "lucas.chaves@gmail.com",
+      "telefone": "51 99655-1535"
+    },
+    "Obra": {
+      "nome_da_obra": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K Rowling",
+      "nro_de_paginas": "320",
+      "codigo_da_obra": "00001",
+      "tipo_da_obra": "Livro"
+    },
+    "emprestimo": {
+      "codigo_do_emprestimo": "EM010",
+      "data_de_emprestimo": "2023-02-04",
+      "data_de_devolucao": "2023-02-17"
+    }
+  }
+}
